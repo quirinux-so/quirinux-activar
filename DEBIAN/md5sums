@@ -1,0 +1,5 @@
+0198f3f870961f09d50f6f84c5fe4d07  ./etc/sudoers.d/activar
+c80f3d5047a0e09ab43e90de89aa6a19  ./etc/xdg/autostart/activar.desktop
+004c90b442a2baef726e2a7af14864cf  ./opt/activar/activar.py
+f292fe20875b7ec01e181072c2d279f7  ./opt/activar/quirinux_logo.png
+c195cb0e40b7e564688842e66e739323  ./usr/local/bin/activar

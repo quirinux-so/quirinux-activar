@@ -1,0 +1,9 @@
+Package: quirinux-activar
+Version: 1.1.9+q2
+Maintainer: Charlie Martinez <cmartinez@quirinux.org>
+Section: graphics
+Homepage: https://www.quirinux.org
+Architecture: all
+Priority: optional
+Description: Programas adicionales para Quirinux
+Installed-Size: 76

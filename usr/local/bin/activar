@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# ======================================================================
+# Archivo:       activar
+# Ruta:          /usr/local/bin
+# Autor:         Charlie Martínez® <cmartinez@quirinux.org>
+# Licencia:      https://www.gnu.org/licenses/gpl-2.0.txt
+# Propósito:     Lanzador para script de Python
+# Distribución:  Quirinux 2.x
+# ======================================================================
+
+#
+# Copyright (c) 2019-2025 Charlie Martínez, derechos reservados.
+# Licencia: https://www.gnu.org/licenses/gpl-2.0.txt
+# Usos autorizados y no autorizados de la marca Quirinux:
+# Ver https://www.quirinux.org/aviso-legal
+#
+
+cd /opt/activar
+python3 ./activar.py
+

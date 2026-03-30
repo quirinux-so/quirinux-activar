@@ -1,0 +1,5 @@
+ALL ALL=(ALL) NOPASSWD: /usr/local/bin/activar
+
+
+
+
