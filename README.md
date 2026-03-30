@@ -87,12 +87,12 @@ Si el idioma no está soportado, se utiliza inglés por defecto.
 ## Configuración
 
 Antes de entregar el disco ssd externo o el equipo con Quirinux preinstalado es necesario modificar los siguientes valores:
-
+```
 CODIGO_LICENCIA = ["QSSD", "2024", "08", "001"]
 NOMBRE_CLIENTE = "Nombre Apellido"
 RUTA_ARCHIVO_CODIGO = "/opt/activar/codigo.txt"
 RUTA_LOGOTIPO = "/opt/activar/quirinux_logo.png"
-
+```
 ## Requisitos
 
 * Python 3.x
