@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # ======================================================================
 # Archivo:       activar.py
 # Ruta:          /opt/activar/
